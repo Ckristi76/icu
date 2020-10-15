@@ -27,18 +27,13 @@ DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
 TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THE DATA FILES OR SOFTWARE.
 
-Except as contained in this notice, the name of a copyright holder
-shall not be used in advertising or otherwise to promote the sale,
-use or other dealings in these Data Files or Software without prior
-written authorization of the copyright holder.
+
 
 ---------------------
 
 Third-Party Software Licenses
 
-This section contains third-party software notices and/or additional
-terms for licensed third-party software components included within ICU
-libraries.
+
 
 1. ICU License - ICU 1.8.1 to ICU 57.1
 
@@ -67,28 +62,22 @@ RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
 CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
 CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-Except as contained in this notice, the name of a copyright holder
-shall not be used in advertising or otherwise to promote the sale, use
-or other dealings in this Software without prior written authorization
-of the copyright holder.
 
-All trademarks and registered trademarks mentioned herein are the
-property of their respective owners.
 
-2. Chinese/Japanese Word Break Dictionary Data (cjdict.txt)
 
- #     The Google Chrome software developed by Google is licensed under
- # the BSD license. Other software included in this distribution is
- # provided under other licenses, as set forth below.
+
+
+ # 
+ #
  #
  #  The BSD License
  #  http://opensource.org/licenses/bsd-license.php
  #  Copyright (C) 2006-2008, Google Inc.
  #
- #  All rights reserved.
+ # 
  #
- #  Redistribution and use in source and binary forms, with or without
- # modification, are permitted provided that the following conditions are met:
+ #  
+ # 
  #
  #  Redistributions of source code must retain the above copyright notice,
  # this list of conditions and the following disclaimer.
